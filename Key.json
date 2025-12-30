@@ -26,9 +26,9 @@
       "expire_date": "2026-01-01"
     },
     {
-      "device_id": "offline-device",
-      "password": "freekey",
-      "expire_date": "2026-01-10"
+      "device_id": "bb39e32141e72fd2",
+      "password": "freekeyfor2days",
+      "expire_date": "2026-01-01"
     }
   ]
 }
