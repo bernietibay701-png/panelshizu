@@ -21,17 +21,17 @@
       "expire_date": "2026-01-10"
     },
     {
-      "device_id": "e6ac701e2fd02b9a",
-      "password": "freekeyfor2days",
-      "expire_date": "2026-01-01"
+      "device_id": "0a812e765b915664",
+      "password": "vipkey",
+      "expire_date": "2026-01-10"
     },
     {
-      "device_id": "0a812e765b915664",
+      "device_id": "offline-device",
       "password": "VIPKEY",
       "expire_date": "2026-01-10"
     },
     {
-      "device_id": "",
+      "device_id": "offline-device",
       "password": "freekeyfor2days",
       "expire_date": "2026-01-01"  
     }
